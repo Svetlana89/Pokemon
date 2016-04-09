@@ -1,0 +1,73 @@
+﻿.inner2 {
+    display: inline-block;
+    height: 172px;
+    border: 2px ridge black;
+    margin: 10px;
+}
+
+.inner3 {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    width: 400px;
+    height: 50px;
+    border: 2px ridge black;
+    margin: auto;
+    font-family: serif;
+    font-size: 40px;
+    color: black;
+}
+
+.name {
+    text-align: center;
+}
+.but {
+    padding-bottom: 2px;
+}
+.butGrass {
+    background-color: #8DF798;
+    border-radius: 5px;
+    width: 45px;
+}
+.butPoison {
+    background-color: #AA6CB8;
+    border-radius: 5px;
+    width: 49px;
+}
+.butFire {
+    background-color: #EB6060;
+    border-radius: 5px;
+}
+.butElectric {
+    background-color: #EBD660;
+    border-radius: 5px;
+}
+.butLM {
+    color: white;
+    background-color: #1D8CE0;
+    border-radius: 10px;
+    width: 30%;
+    height: 50px;
+    font-weight: bold;
+    font-family: serif;
+    font-size: 20px;
+}
+table {
+    border: 2px ridge black;
+    float: right;
+    position: relative;
+    right: 43%;
+    top: 204px;
+}
+td {
+    border: 1px ridge black;
+    text-align: center;
+}
+.changeColor {
+    background-color: "red";
+}

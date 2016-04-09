@@ -1,0 +1,20 @@
+﻿{
+	"Bulbazar":[
+    ["Bulbazar #001", "Grass Poison", 32, 40, 51, 74, 63, 60, 86, 90],
+	["Bulbazar #002", "Grass Poison", 34, 41, 55, 71, 62, 64, 87, 91],
+	["Bulbazar #003", "Grass Poison", 36, 44, 56, 78, 64, 62, 91, 95],
+	["Bulbazar #004", "Grass Poison", 39, 46, 52, 76, 65, 63, 88, 92]
+    ],
+	"Charmander": [
+    ["Charmander #001", "Fire", 51, 42, 37, 57, 48, 62, 81, 87],
+	["Charmander #002", "Fire", 55, 44, 40, 65, 52, 66, 88, 81],
+	["Charmander #003", "Fire", 53, 46, 42, 65, 55, 67, 86, 90],
+	["Charmander #004", "Fire", 52, 43, 39, 60, 50, 65, 85, 89]
+    ],
+	"Pikachu": [
+    ["Pikachu #0001", "Electric", 32, 35, 28, 35, 40, 41, 51, 80],
+	["Pikachu #002", "Electric", 33, 36, 29, 36, 41, 43, 54, 79],
+	["Pikachu #003", "Electric", 35, 37, 30, 37, 43, 44, 54, 81],
+	["Pikachu #004", "Electric", 38, 40, 32, 37, 41, 37, 49,78]
+    ]
+}
